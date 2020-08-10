@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+drawable media_next
+drawable media_pause
+drawable media_play
+drawable media_previous
+drawable notification_icon

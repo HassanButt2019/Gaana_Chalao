@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "457983506461",
+    "firebase_url": "https://gaana-chalao.firebaseio.com",
+    "project_id": "gaana-chalao",
+    "storage_bucket": "gaana-chalao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457983506461:android:5fd7e7fd84493bf928aef4",
+        "android_client_info": {
+          "package_name": "com.example.gaana_chalao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457983506461-mj7mb54uc3amvojthf745g5erfo1jrd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNXNVtymc-G0QgToOfANWCCBJf2ASKMHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457983506461-mj7mb54uc3amvojthf745g5erfo1jrd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
