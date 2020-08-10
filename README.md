@@ -20,9 +20,20 @@ Now I hav implemented Two More screens one is for upload songs in cloud and one 
 <br>
 ## THE MAIN SCREEN
 ![v0 02m](https://user-images.githubusercontent.com/48251967/89720587-086c1900-d9ed-11ea-8ae2-ed9b9cd068e2.png)
-
 <hr>
 
+# v0.03
+In this version I implemented a connection with cloud Storage where songs will be store and retrived in home screen
+
+## HOME SCREEN
+![v0 03h](https://user-images.githubusercontent.com/48251967/89782397-a5829b00-db2e-11ea-9202-3530690c4a9a.png)
+
+
+## UPLOAD SCREEN
+
+![v0 03u](https://user-images.githubusercontent.com/48251967/89782607-11fd9a00-db2f-11ea-8147-fa743382f6ec.png)
+
+<hr>
 
 
 
